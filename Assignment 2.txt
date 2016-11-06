@@ -1,0 +1,7 @@
+Write a program that would
+1. create a binary tree with 10 nodes
+2. traverse the tree Breadth first.
+3 Your tree node should NOT have a pointer to the parent.
+    Only the pointers to the left child and the right child.
+submit the code.
+Submit the screen shot of your program run.
