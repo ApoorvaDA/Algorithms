@@ -1,7 +1,7 @@
 Write a program to implement the queue functions to
 1. enqueue
 2. dequeue.
-Use lists to immplemen the program (not array)
+Use lists to implement the program (not array)
 Run the program as follows:
 1. enqueue 1 items
 2. dequeue 2 items (show the queue empty message)
