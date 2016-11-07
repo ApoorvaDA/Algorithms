@@ -1,7 +1,0 @@
-Write a program to delete an item from Binary Search Tree.
-1. Make a BST with the following numbers:
-        12 54 34 76 46 2 18 38 23 11 9 87 33 65
-        show the resulting tree
-
-2. Delete 54
-    Show the resulting tree

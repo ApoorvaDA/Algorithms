@@ -1,6 +1,0 @@
-Create an undirected graph using Adjacency Matrix.
-The graph must contain 8 nodes and 16 edges.
-Do a DFS search on the graph.
-Do a BFS search on the graph.
-Your printout will show the adjacency Matrix of the graph
-The printout should show the sequence of nodes visited in DFS and BFS.
