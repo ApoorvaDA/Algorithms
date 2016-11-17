@@ -47,7 +47,7 @@ public:
 	int centerIndex = 0;
 	for (int i = 1; i < n-1; i++)
 	{
-		if (P[i] > maxLen)
+		if (P[i] > maxLen) 
 		{
 			maxLen = P[i];
 			centerIndex = i;
