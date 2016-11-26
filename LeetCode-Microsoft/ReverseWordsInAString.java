@@ -40,3 +40,20 @@ public class Solution{
 	}
 
 }
+
+/*
+Without using char[]
+*/
+public class Solution{
+	public String reverseWords(String s){
+		String[] splitted = s.split("\\s+");
+		StringBuilder sb = new StringBuilder();
+		int length = splitted.length;
+
+		for (int i=length-1; i>=0 ;i++ ) {
+			sb.append(splitted[i]+" ");
+		}
+		String reverse = sb.toString().trim();
+		return reverse;
+	}
+}
